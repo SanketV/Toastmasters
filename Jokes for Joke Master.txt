@@ -29,7 +29,11 @@ The second one said, "My teacher has so much self-control, he can go 20 days wit
 
 The third one said, "My teacher is so wise, he eats when he's hungry and sleeps when he's tired."
 
+<<<<<<< HEAD
 And I learnt it's only wise if competition is healthy. Otherwise, just do your thing!
+=======
+And I learnt it's only wise if competition is healthy. Otherwise, just do your thing and chill!
+>>>>>>> Spice_Up_With_Humor
 
 
 
