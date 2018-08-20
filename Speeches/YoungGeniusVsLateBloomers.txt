@@ -1,0 +1,13 @@
+
+If you haven't discovered your exceptional gift yet, you're in good company. Mark Twain, Alfred Hitchcock, and Cézanne all reached the apex of their talent in midlife.
+
+
+Why flowers bloom late.
+
+	Flowers know when to bloom because of a gene named Apetala1.
+	 A lone master gene, Apetala1 triggers the reproductive development of a plant, telling it when it's time to start blossoming. 
+	Plants blossom at different times because several factors, including the weather, temperature and the amount of sunlight the plant receives, 
+	all of which influence its reproductive development. 
+	Information about these conditions is relayed to Apetala1, 
+	which activates when it senses that the timing is right to commence flowering.
+
