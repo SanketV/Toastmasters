@@ -1,0 +1,292 @@
+• AI Fundamentals •
+
+One thing I like about our meetings is it's like an AA meeting.
+
+You can self-reflect, speak what you want and the members always support you.
+
+It's another form of happy hour in many ways.
+
+I mentioned at one time, I have been trying to learn AI.
+
+What is intelligence?
+
+	- Dictionary says it is an ability to acquire and apply knowledge and skills.
+
+What is artificial?
+	
+	- Dictionary says it is something that is not genuine, not natural, or something that is fake or simulated.
+
+
+AI has advanced so much it feels like it will take away all the jobs, do all the work and eventually take over the world.
+
+But, what is AI?
+
+ChatGPT came into existence in late 2022. 
+Then, the AI options exploded.
+
+However, all of us have been using AI apps for more than a decade.
+For example - Apple Siri, Amazon Alexa, Google Translate, Netflix/YouTube recommendations, Spotify Recommendations etc.
+
+**Title: “Artificial Intelligence… Real Confusion”**
+
+Good evening,
+
+Let me start with a confession.
+
+A few months ago, I confidently explained AI to my 15-year-old.
+
+I said, “AI is the future. It’s going to change everything.”
+
+He looked at me and said,
+“Dad… it already has. You just discovered it.”
+
+That was the moment I realized…
+I’m not ahead of the curve.
+I’m being *dragged* by it.
+
+---
+
+So let’s start simple.
+
+**What is Artificial Intelligence?**
+
+AI is the ability of machines to perform tasks that normally require human intelligence—
+like understanding language, recognizing patterns, making decisions.
+
+In short…
+
+> AI is a machine trying to act like a human.
+
+Which is ironic…
+
+Because most of us are still trying to act like functional humans.
+
+---
+
+Now here’s the funny part.
+
+We think AI is new.
+
+It’s not.
+
+We’ve been using AI for over a decade—just without calling it “AI.”
+
+* When Netflix recommended your next show… that was AI.
+* When Google finished your sentence… that was AI.
+* When your GPS said, “recalculating”… judging your life choices… that was definitely AI.
+
+And let’s be honest…
+
+Netflix knows you better than your family.
+
+It doesn’t ask, “How was your day?”
+It says, “You watched 6 episodes… are you okay?”
+
+---
+
+Now let’s go one level deeper.
+
+**What is a model?**
+
+A model is the brain of AI.
+
+It’s a system trained on massive amounts of data
+to recognize patterns and make predictions.
+
+Think of it like this:
+
+A model is like a student
+who has read the entire internet…
+
+but has no life experience.
+
+So it sounds very confident…
+
+…but sometimes says things that make no sense.
+
+Kind of like… some people on social media.
+
+---
+
+Which brings us to the next question:
+
+**How do we train a model?**
+
+There are three main ways—and honestly, training a model is a lot like training a puppy.
+
+1. **Supervised learning**
+   You show the model the right answers again and again.
+   “Sit.” Reward.
+   “Stay.” Reward.
+
+   Like a puppy learning commands… with treats.
+
+2. **Unsupervised learning**
+   You just give it a bunch of data… and let it figure things out.
+
+   Like leaving a puppy alone in the house…
+   and hoping it learns what not to chew.
+
+   Spoiler: it won’t.
+
+3. **Reinforcement learning**
+   You reward good behavior and discourage bad behavior.
+
+   Sit? Treat.
+   Chew the couch? No treat.
+
+   Basically…
+
+   how we train puppies…
+   how we train kids…
+   and honestly… how companies train employees.
+
+---
+
+Now here’s where things get interesting.
+
+**What is hallucination?**
+
+In AI, hallucination means the system makes things up.
+
+Confidently.
+
+Completely wrong…
+
+…but beautifully explained.
+
+Basically, like that one friend we all have.
+
+You know the one.
+
+Always boasting.
+
+Always bluffing.
+
+“I’ve been there.”
+“I know that guy.”
+“I read that book.”
+
+You ask one follow-up question…
+
+…and suddenly the story gets… creative.
+
+I once asked an AI for a reference.
+
+It gave me a perfect answer.
+
+Author name.
+Book title.
+Publication year.
+
+Everything looked real.
+
+There was just one small problem…
+
+None of it existed.
+
+It created a fake expert… with a fake book…
+and I almost quoted it in a meeting.
+
+That’s when I realized…
+
+AI doesn’t just answer questions.
+
+It improvises.
+
+It’s basically… a very fast, very confident storyteller.
+
+---
+
+And finally…
+
+**What is bias?**
+
+Bias is when AI reflects the patterns—and prejudices—of the data it was trained on.
+
+Think of it like that one uncle at family gatherings…
+
+You know the one.
+
+He says, “I’m not biased, I’m just telling it like it is.”
+
+And everyone else is like, “No, Uncle… you’re just repeating things you heard in 1985.”
+
+AI works the same way.
+
+If you train it on biased data, it doesn’t question it… it just repeats it—faster, louder, and with better grammar.
+
+If the data is biased…
+
+the AI will be biased.
+
+For example:
+
+Ask AI to generate an image of a CEO…
+
+and historically, it often showed a certain type of person.
+
+Not because AI is opinionated…
+
+but because it learned from us.
+
+So when we say AI has bias…
+
+what we’re really saying is…
+
+AI is holding up a mirror.
+
+And sometimes…
+
+we don’t like what we see.
+
+---
+
+So where does that leave us?
+
+AI can learn.
+AI can predict.
+AI can even sound intelligent.
+
+But it doesn’t *understand*.
+
+It doesn’t have judgment.
+It doesn’t have values.
+It doesn’t know when it’s wrong.
+
+Which is… honestly… still a problem humans haven’t fully solved either.
+
+---
+
+Let me end with this.
+
+AI is powerful.
+
+It can write emails, generate ideas, even help us prepare speeches like this one.
+
+But intelligence is not just about giving answers.
+
+It’s about asking better questions.
+
+It’s about judgment.
+
+It’s about responsibility.
+
+So the real question is not:
+
+“Is AI intelligent?”
+
+The real question is:
+
+> “Are we intelligent enough… to use it wisely?”
+
+Because in the end…
+
+AI will not replace us.
+
+But humans… using AI…
+
+will replace humans who don’t.
+
+Thank you.
+
